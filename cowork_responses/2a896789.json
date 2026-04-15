@@ -1,0 +1,61 @@
+{
+  "status": "completed",
+  "request_id": "2a896789",
+  "project_folder": "F696FC89 Allana Consumer Products Limited_Hassan Non Subsidy_340.4kWp_String",
+  "sld_key": "__default__",
+  "timestamp": "2026-04-15T03:36:02Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 150,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 400,
+        "acdb_mcb_poles": 4,
+        "kwp": 184.83,
+        "strings": 17,
+        "dc_cable": {
+          "length_m": 75
+        }
+      },
+      "2": {
+        "ac_cable": {
+          "sqmm": 95,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 250,
+        "acdb_mcb_poles": 4,
+        "kwp": 155.55,
+        "strings": 14,
+        "dc_cable": {
+          "length_m": 75
+        }
+      }
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "earthing": {
+      "la_length_m": 20,
+      "dc_length_m": 170,
+      "ac_length_m": 10
+    },
+    "solar_meter": {
+      "mccb_a": 800,
+      "ct_ratio": "600/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 400
+  }
+}
