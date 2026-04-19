@@ -1,0 +1,57 @@
+{
+  "status": "completed",
+  "request_id": "c070d284",
+  "project_folder": "F0A0DBF2 Detail Project Report - KIMS Hospital_Mahadevpura_388.68kWp_Optimizer",
+  "sld_key": "__default__",
+  "timestamp": "2026-04-19T15:30:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 70, "length_m": 10, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 200,
+        "acdb_mcb_poles": 4,
+        "kwp": 100,
+        "strings": 7,
+        "dc_cable": {"length_m": 200}
+      },
+      "2": {
+        "ac_cable": {"sqmm": 70, "length_m": 10, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 200,
+        "acdb_mcb_poles": 4,
+        "kwp": 100,
+        "strings": 7,
+        "dc_cable": {"length_m": 200}
+      },
+      "3": {
+        "ac_cable": {"sqmm": 70, "length_m": 10, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 200,
+        "acdb_mcb_poles": 4,
+        "kwp": 100,
+        "strings": 7,
+        "dc_cable": {"length_m": 200}
+      },
+      "4": {
+        "ac_cable": {"sqmm": 10, "length_m": 10, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "dc_cable": {"length_m": 200}
+      }
+    },
+    "dc_system": {
+      "dc_isolator_a": 40,
+      "dc_isolator_poles": 4,
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "solar_meter": {
+      "mccb_a": 630,
+      "ct_ratio": "600/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 1000
+  }
+}
