@@ -1,0 +1,63 @@
+{
+  "status": "completed",
+  "request_id": "697c4d27",
+  "project_folder": "79CFC622 TSVR - Sobha Dahlia_Bellandur_175.74kWp_Optimizer",
+  "sld_key": "DWG-EL-001_SLD-Sobha Dahlia Block _4,5 & 6_92.22 kW",
+  "timestamp": "2026-04-19T16:35:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 35,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 125,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "MCCB",
+        "kwp": 66.6,
+        "strings": 3,
+        "dc_cable": {"length_m": 20}
+      },
+      "2": {
+        "ac_cable": {
+          "sqmm": 10,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "MCB",
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 32
+      }
+    },
+    "dc_system": {
+      "dc_isolator_a": 40,
+      "dc_isolator_poles": 2,
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280VAC"
+    },
+    "earthing": {
+      "dc_sqmm": 16,
+      "dc_length_m": 5,
+      "ac_sqmm": 16,
+      "ac_length_m": 5
+    },
+    "solar_meter": {
+      "mccb_a": 200,
+      "ct_ratio": "200/5A",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 105
+  }
+}
