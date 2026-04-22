@@ -1,0 +1,79 @@
+{
+  "status": "completed",
+  "request_id": "80de7e98",
+  "project_folder": "Project Id E6BBFCE4 Client Name - Avon Plastivs Pvt Ltd - DEXLER",
+  "sld_key": "__default__",
+  "timestamp": "2026-04-22T17:30:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 95,
+          "length_m": 10,
+          "runs": 1,
+          "cores": 3.5,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 250,
+        "acdb_mcb_poles": 4,
+        "kwp": 110,
+        "strings": 12,
+        "modules": 19,
+        "dc_cable": {"length_m": 224}
+      },
+      "2": {
+        "ac_cable": {
+          "sqmm": 95,
+          "length_m": 10,
+          "runs": 1,
+          "cores": 3.5,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 250,
+        "acdb_mcb_poles": 4,
+        "kwp": 110,
+        "strings": 12,
+        "modules": 19,
+        "dc_cable": {"length_m": 224}
+      },
+      "3": {
+        "ac_cable": {
+          "sqmm": 35,
+          "length_m": 8,
+          "runs": 1,
+          "cores": 3.5,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 100,
+        "acdb_mcb_poles": 4,
+        "kwp": 40,
+        "strings": 5,
+        "modules": 19,
+        "dc_cable": {"length_m": 180}
+      }
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "earthing": {
+      "la_sqmm": 75,
+      "la_length_m": 50,
+      "dc_sqmm": 75,
+      "dc_length_m": 300,
+      "ac_sqmm": 75,
+      "ac_length_m": 10
+    },
+    "solar_meter": {
+      "mccb_a": 630,
+      "ct_ratio": "600/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 1900
+  }
+}
