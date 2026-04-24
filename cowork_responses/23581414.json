@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "request_id": "23581414",
+  "project_folder": "79CFC622 TSVR - Sobha Dahlia_Bellandur_175.74kWp_Optimizer",
+  "sld_key": "DWG-EL-001_SLD-Sobha Dahlia Block _4,5 & 6_92.22 kW",
+  "timestamp": "2026-04-24T04:50:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 66.6
+      },
+      "2": {
+        "kwp": 33.3
+      }
+    }
+  }
+}
