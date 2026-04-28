@@ -1,0 +1,122 @@
+{
+  "status": "completed",
+  "request_id": "a765b966",
+  "project_folder": "729CF3E1 KAYNES ELECTRONICS MANUFACTURING PVT LTD",
+  "sld_key": "__default__",
+  "timestamp": "2026-04-28T08:40:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "2": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "3": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "4": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "5": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "6": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 169.74,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "7": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "8": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "9": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "10": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "11": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 168.51,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      },
+      "12": {
+        "ac_cable": {"sqmm": 95, "length_m": 15, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 315,
+        "acdb_mcb_poles": 4,
+        "kwp": 169.74,
+        "strings": 15,
+        "dc_cable": {"length_m": 100}
+      }
+    },
+    "dc_system": {
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "earthing": {
+      "ac_sqmm": 75
+    },
+    "solar_meter": {
+      "mccb_a": 1600,
+      "ct_ratio": "1600/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 2250
+  }
+}
