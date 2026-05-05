@@ -1,0 +1,51 @@
+{
+  "status": "completed",
+  "request_id": "689c7374",
+  "project_folder": "6F98436E INDIQUBE SPACES LIMITED",
+  "sld_key": "__default__",
+  "timestamp": "2026-05-05T08:56:02Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 35, "length_m": 4, "runs": 1, "cores": 5, "type": "cu"},
+        "acdb_mcb_a": 100,
+        "acdb_mcb_poles": 4,
+        "kwp": 66.6,
+        "strings": 6,
+        "modules": 32,
+        "dc_cable": {"length_m": 4}
+      },
+      "2": {
+        "ac_cable": {"sqmm": 35, "length_m": 5, "runs": 1, "cores": 5, "type": "cu"},
+        "acdb_mcb_a": 100,
+        "acdb_mcb_poles": 4,
+        "kwp": 66.6,
+        "strings": 6,
+        "modules": 34,
+        "dc_cable": {"length_m": 5}
+      },
+      "3": {
+        "ac_cable": {"sqmm": 10, "length_m": 6, "runs": 1, "cores": 5, "type": "cu"},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 3,
+        "modules": 34,
+        "dc_cable": {"length_m": 6}
+      }
+    },
+    "dc_system": {
+      "dc_isolator_a": 50,
+      "dc_isolator_poles": 2,
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "solar_meter": {
+      "mccb_a": 250,
+      "ct_ratio": "250/5",
+      "mcb_a": 10
+    }
+  }
+}
