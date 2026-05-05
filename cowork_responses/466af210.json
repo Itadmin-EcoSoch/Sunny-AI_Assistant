@@ -1,0 +1,35 @@
+{
+  "status": "completed",
+  "request_id": "466af210",
+  "project_folder": "C69EDF83 K.H. GURUPRASAD",
+  "sld_key": "__default__",
+  "timestamp": "2026-05-05T12:40:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 2.5,
+          "length_m": 2,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "kwp": 8.4,
+        "strings": 1,
+        "modules": 12,
+        "dc_cable": {
+          "length_m": 20
+        }
+      }
+    },
+    "earthing": {
+      "la_sqmm": 16,
+      "la_length_m": 20,
+      "dc_sqmm": 16,
+      "dc_length_m": 20,
+      "ac_sqmm": 16,
+      "ac_length_m": 18
+    },
+    "sanctioned_load_kw": 10
+  }
+}
