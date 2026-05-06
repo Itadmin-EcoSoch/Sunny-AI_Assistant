@@ -1,0 +1,40 @@
+{
+  "status": "completed",
+  "request_id": "df9eec55",
+  "project_folder": "TSVR - Windmills Of Your Mind - Total Environment_Whitefield_297.54kWp_Optimizer",
+  "sld_key": "DWG-El-001_Single Line Diagram_Windimills_ Tower - 7  - 49.6kW-Model",
+  "timestamp": "2026-05-06T14:35:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 10, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 33,
+        "dc_cable": {"length_m": 114}
+      },
+      "2": {
+        "ac_cable": {"sqmm": 4, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_a": 20,
+        "acdb_mcb_poles": 4,
+        "kwp": 10,
+        "strings": 1,
+        "modules": 15,
+        "dc_cable": {"length_m": 114}
+      }
+    },
+    "dc_system": {
+      "dc_isolator_a": 40,
+      "dc_isolator_poles": 4,
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "solar_meter": {
+      "mccb_a": 100,
+      "ct_ratio": "100/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 50
+  }
+}
