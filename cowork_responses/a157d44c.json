@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "request_id": "a157d44c",
+  "project_folder": "6F98436E INDIQUBE SPACES LIMITED",
+  "sld_key": "__default__",
+  "timestamp": "2026-05-07T09:25:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 27.6,
+        "strings": 2,
+        "modules": 30
+      },
+      "2": {
+        "kwp": 17.0,
+        "strings": 1,
+        "modules": 31
+      }
+    }
+  }
+}
