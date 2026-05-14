@@ -1,0 +1,53 @@
+{
+  "status": "completed",
+  "request_id": "2ae3b57a",
+  "project_folder": "92C43856 Sandeep Vihar",
+  "sld_key": "__default__",
+  "timestamp": "2026-05-14T14:05:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 35,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 125,
+        "acdb_mcb_poles": 4,
+        "kwp": 66.6,
+        "strings": 4,
+        "modules": 32,
+        "dc_cable": {
+          "length_m": 130
+        }
+      },
+      "2": {
+        "ac_cable": {
+          "sqmm": 35,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 125,
+        "acdb_mcb_poles": 4,
+        "kwp": 66.6,
+        "strings": 4,
+        "modules": 32,
+        "dc_cable": {
+          "length_m": 130
+        }
+      }
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "solar_meter": {
+      "mccb_a": 250,
+      "ct_ratio": "250/5",
+      "mcb_a": 6
+    }
+  }
+}
