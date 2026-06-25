@@ -1,68 +1,11 @@
 {
   "request_id": "8217647085_1782364356_1aa1d1",
-  "project_folder": "8217647085 P. Dinesh",
-  "timestamp": "2026-06-25T05:25:00Z",
+  "project_folder": "66ADE671 P. Dinesh",
+  "project_id": "8217647085",
+  "project_name": "P. Dinesh_Nelamangala_Non Subsidy_9.8kWp_Hybrid",
+  "report_number": "ESV-2026-0144",
+  "timestamp": "2026-06-25T06:00:00Z",
   "verdicts": [
-    {
-      "question_id": "general_1_can_the_delivery_van_truck_rea",
-      "section": "general",
-      "q_no": 1,
-      "question": "Can the delivery van/truck reach the material unloading point?",
-      "designer_answer": "Yes",
-      "designer_notes": "-",
-      "photo_observation": "Page 5 (Building Exterior / Material Delivery Route): Wide road visible, large metal gate at entrance, concrete paving in front. Blue annotation arrow shows delivery path to the gate.",
-      "verdict": "PASS",
-      "confidence": "medium",
-      "rationale": "Material Delivery Route photo (page 5) shows a road and large gate with adequate clearance for a delivery truck."
-    },
-    {
-      "question_id": "general_2_are_there_any_obstacles_at_the",
-      "section": "general",
-      "q_no": 2,
-      "question": "Are there any obstacles at the site that could hinder material lifting?",
-      "designer_answer": "No",
-      "designer_notes": "-",
-      "photo_observation": "Pages 6-7 show the side of the building (narrow but clear passageway), an internal staircase for small items, and an external metal ladder for large items. No blocking structures or overhead obstructions visible along the lifting route.",
-      "verdict": "PASS",
-      "confidence": "medium",
-      "rationale": "Lifting route photos (pages 6-7) show clear paths — staircase for small materials and an external ladder for panels — with no significant blocking obstacles."
-    },
-    {
-      "question_id": "general_3_where_will_the_inverter_dcdb_a",
-      "section": "general",
-      "q_no": 3,
-      "question": "Where will the Inverter, DCDB, ACDB, Battery, etc. be located?",
-      "designer_answer": "Inverter, DCDB, ACDB, Battery is located near the ground floor",
-      "designer_notes": "-",
-      "photo_observation": "Page 13 (Equipment Location, bottom): Ground floor room interior with INVERTER (purple marker) and BATTERY (green marker) overlaid. The room shows bare concrete floors and walls — an under-construction space.",
-      "verdict": "PASS",
-      "confidence": "high",
-      "rationale": "Page 13 clearly shows annotated equipment location markers (Inverter, Battery) in a ground floor room, consistent with the designer's answer."
-    },
-    {
-      "question_id": "general_4_is_a_canopy_required_for_prote",
-      "section": "general",
-      "q_no": 4,
-      "question": "Is a canopy required for protecting the Inverters/ACDB/DCDB?",
-      "designer_answer": "No",
-      "designer_notes": "-",
-      "photo_observation": "Page 13 shows equipment positioned inside a room with ceiling and walls — not exposed to weather.",
-      "verdict": "PASS",
-      "confidence": "high",
-      "rationale": "Equipment will be inside an enclosed ground floor room (page 13), so no external canopy is required."
-    },
-    {
-      "question_id": "general_5_did_you_discuss_the_location_o",
-      "section": "general",
-      "q_no": 5,
-      "question": "Did you discuss the location of the earth pits with the customer?",
-      "designer_answer": "Earth pits are located",
-      "designer_notes": "-",
-      "photo_observation": "Page 14 (Earth Pit Location): Narrow soil/garden strip alongside the building wall with three colored markers — blue (DC Earth Pit), yellow (AC Earth Pit), green (LA Pit) — indicating planned pit positions.",
-      "verdict": "PASS",
-      "confidence": "high",
-      "rationale": "Page 14 explicitly shows the earth pit location with three distinct pit markers in the garden strip, confirming the discussion and location identification."
-    },
     {
       "question_id": "roof_1_what_type_of_roof_is_present_a",
       "section": "roof",
@@ -70,22 +13,22 @@
       "question": "What type of roof is present at the site?",
       "designer_answer": "RCC Flat Roof",
       "designer_notes": "Panels are planned on the RCC flat roof and corrugated sheet roof.",
-      "photo_observation": "Page 9 (Material Storage): Flat tiled terrace visible with parapet walls. Pages 10-11 (3D renders): Main array on RCC flat roof; a smaller corrugated sheet section is also shown. Page 12 (Proposed PV Area): Large flat area with blue tarp covering the proposed installation zone.",
+      "photo_observation": "Pages 9 and 11 (Proposed PV Area, Material Storage) show a flat RCC concrete roof with stone/tile flooring — unmistakably flat with no slope. A separate corrugated metal sheet section is clearly visible in the Cable Routing photo on page 12 (bottom), consistent with the designer's note about two roof types.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Pages 9 and 12 clearly show a flat, tiled RCC terrace as the primary roof. The 3D renders (pages 10-11) confirm an additional corrugated sheet section, consistent with the designer's notes."
+      "rationale": "Flat RCC roof confirmed on pages 9 and 11; corrugated sheet section confirmed on page 12. Both roof types match the designer's answer and notes."
     },
     {
-      "question_id": "roof_2_are_there_any_obstructions_on_t",
+      "question_id": "roof_2_are_there_any_obstructions_on",
       "section": "roof",
       "q_no": 2,
       "question": "Are there any obstructions on the roof that could affect the solar installation?",
-      "designer_answer": "details: Skylights are obstructing on the roof that could affect the solar installation.",
+      "designer_answer": "details: Skylights are obstructing on the roof that",
       "designer_notes": "-",
-      "photo_observation": "Page 9 (Material Storage, top photo): A square skylight opening visible in the flat terrace floor surface near the centre of the proposed area. The skylight is clearly an obstruction.",
+      "photo_observation": "Page 9 (Material Storage / rooftop photo) shows a rectangular skylight cutout in the RCC flat roof surface, clearly visible as an opening in the roof slab within the proposed installation area.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Page 9 shows a square skylight opening in the terrace, directly matching the designer's claim of a skylight obstruction."
+      "rationale": "Skylight opening is clearly visible on the roof in the page 9 photo, confirming the designer's obstruction note."
     },
     {
       "question_id": "roof_3_what_is_the_angle_of_the_panel",
@@ -94,10 +37,10 @@
       "question": "What is the angle of the panels? (in degrees)",
       "designer_answer": "10",
       "designer_notes": "-",
-      "photo_observation": "Pages 10-11 (3D renders): Elevated HDGI structure shown with panels tilted at a visible angle. Panel dimension diagram (page 11, top) shows 2000mm support height but no angle measurement annotation. No actual site photo of the structure provides an angle reference.",
+      "photo_observation": "The 3D side views on page 10 and panel dimension diagram on page 11 show an elevated HDGI structure (2000mm height) on the flat roof. Panels appear to be at a low tilt in the 3D model, visually consistent with roughly 10 degrees. However, the exact angle cannot be precisely measured from the available photos.",
       "verdict": "MANUAL_CHECK",
-      "confidence": "low",
-      "rationale": "Only 3D design renders are available for the elevated structure; the 10° tilt angle cannot be independently confirmed from renders alone. No actual installed structure photo with angle reference is present."
+      "confidence": "medium",
+      "rationale": "The elevated structure and low-tilt panel appearance are consistent with 10 degrees, but the angle cannot be precisely confirmed from photos alone."
     },
     {
       "question_id": "roof_5_on_how_many_roofs_at_the_site",
@@ -106,10 +49,10 @@
       "question": "On how many roofs at the site are we installing solar?",
       "designer_answer": "2",
       "designer_notes": "RCC flat roof and corrugated sheet roof",
-      "photo_observation": "Page 9 (Site Layout – Top View): Annotated top view shows the main RCC flat roof panel array and a separate smaller corrugated sheet area. 3D renders (pages 10-11) confirm two distinct roof sections with panels.",
+      "photo_observation": "Page 9 top-view layout shows two distinct panel arrays. Pages 10-11 3D models confirm two separate sections: main elevated array on the RCC flat roof (12 panels) and a separate corrugated sheet section (2 panels). Page 12 bottom shows the corrugated sheet section independently.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Top view diagram (page 9) and 3D renders (pages 10-11) clearly show two distinct roof sections with solar panels: a large RCC flat roof and a smaller corrugated sheet section."
+      "rationale": "Two distinct roof sections are confirmed across multiple pages (9, 10, 11, 12), matching the answer of 2."
     },
     {
       "question_id": "roof_8_what_type_of_mounting_structur",
@@ -118,22 +61,22 @@
       "question": "What type of mounting structure is planned?",
       "designer_answer": "Elevated",
       "designer_notes": "12 Panels of HDGI with 2m height on the RCC flat roof and 02 panels on the sheet roof",
-      "photo_observation": "Page 11 (top): Panel dimension diagram shows a 2000mm support structure height labeled. 3D renders (page 10): The elevated structure clearly raises panels high above the flat roof surface with visible support legs.",
+      "photo_observation": "Page 11 panel dimensions diagram explicitly shows a mounting structure height of 2000mm supporting the panel array, consistent with elevated HDGI mounting. Pages 10 side views also show legs supporting the panel array above the flat roof level.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Page 11 panel diagram labels 2000mm support height, and 3D renders (page 10) confirm a clearly elevated structure on the flat roof, consistent with 'Elevated HDGI 2m height.'"
+      "rationale": "2000mm elevated structure height is explicitly annotated on page 11, matching the designer's 'Elevated / HDGI 2m' answer."
     },
     {
       "question_id": "roof_9_what_is_the_orientation_of_the",
       "section": "roof",
       "q_no": 9,
       "question": "What is the orientation of the solar panels?",
-      "designer_answer": "South",
+      "designer_answer": "[\"South\"]",
       "designer_notes": "-",
-      "photo_observation": "Page 9 (Site Layout – Top View, bottom): North compass indicator shown; the main panel array is positioned on the south side of the roof, facing away from North. 3D renders (page 10): Both views include North compass arrows confirming the main array faces South.",
+      "photo_observation": "Page 9 site layout top-view includes a North compass marker. The main panel array is positioned on the south-facing portion of the roof relative to the compass. The 3D models on page 10 show the panels tilted with their face pointing south away from north.",
       "verdict": "PASS",
-      "confidence": "high",
-      "rationale": "Top view diagram and 3D renders (pages 9-10) include North compass indicators; the main 12-panel elevated array on the flat roof is oriented to face South, consistent with the designer's answer."
+      "confidence": "medium",
+      "rationale": "Compass on page 9 layout and panel array position consistently indicate south-facing orientation."
     },
     {
       "question_id": "roof_10_how_can_the_roof_be_accessed",
@@ -142,10 +85,10 @@
       "question": "How can the roof be accessed?",
       "designer_answer": "Ladder",
       "designer_notes": "-",
-      "photo_observation": "Page 7 (Staircase Details, bottom): External metal/iron ladder attached to the building exterior going up to roof level. Page 6 (bottom): Internal marble staircase captioned as route for small items only; a ladder is the primary route for large items like panels.",
+      "photo_observation": "Page 7 ('Staircase Details' section) shows a steep external metal ladder attached to the building exterior running up to the roof level. The structure is a vertical iron-runged ladder, matching the 'Ladder' answer. An internal marble staircase is also visible on page 6 for lower-floor access.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Page 7 explicitly shows an external metal ladder as the primary roof access route for large materials, consistent with the designer's 'Ladder' answer."
+      "rationale": "External metal ladder providing direct roof access is clearly shown in page 7, matching the 'Ladder' answer."
     },
     {
       "question_id": "roof_11_is_the_building_currently_unde",
@@ -154,10 +97,22 @@
       "question": "Is the building currently under construction?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 5 (Building Exterior): Upper portion of building shows unfinished plastering, rough concrete sections visible. Page 13 (Equipment Location): Ground floor interior shows bare concrete flooring, unplastered walls — clearly under construction.",
+      "photo_observation": "Page 5 shows a freshly completed building exterior with no visible landscaping or finishing. Page 13 (equipment location interior) shows bare concrete walls, unfinished floor surfaces, and construction materials, confirming active or recently completed construction.",
+      "verdict": "PASS",
+      "confidence": "high",
+      "rationale": "Interior photos on page 13 show an unfinished building interior consistent with 'under construction'."
+    },
+    {
+      "question_id": "roof_12_in_an_under_construction_build",
+      "section": "roof",
+      "q_no": 12,
+      "question": "In an under-construction building, are existing conduit pipes available for AC, DC cables, and earthing?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "Page 13 (interior ground floor and cable routing) shows bare concrete walls with no embedded conduit pipes visible. Page 14 (earth pit location, exterior side yard) also shows no installed conduit infrastructure. The cable route in page 13 is shown as planned overlaid lines on unfinished walls.",
       "verdict": "PASS",
       "confidence": "medium",
-      "rationale": "Interior photo (page 13) shows raw concrete floor and bare walls consistent with ongoing construction. Exterior (page 5) also shows unfinished sections on upper floors."
+      "rationale": "No existing conduit pipes are visible in the interior or exterior photos. Bare concrete walls in page 13 are consistent with 'No' conduit pipes available."
     },
     {
       "question_id": "roof_13_what_is_the_height_of_the_buil",
@@ -166,10 +121,10 @@
       "question": "What is the height of the building and how many floors does it have?",
       "designer_answer": "Height of the building is 15m; it has G+3+Headroom.",
       "designer_notes": "-",
-      "photo_observation": "Page 5 (Building Exterior): Ground floor visible at gate level, then three upper floors with windows visible above, plus a parapet/headroom structure at the top. Building appears approximately 4 storeys plus headroom.",
-      "verdict": "PASS",
+      "photo_observation": "Page 5 (Building Exterior) shows a multi-storey modern building. Counting visible levels from ground up: ground floor entrance/gate, floors 1-3 with windows, and a headroom/parapet level — approximately 4-5 distinct levels, consistent with G+3+Headroom. Precise 15m height and exact floor count cannot be measured from the photo.",
+      "verdict": "MANUAL_CHECK",
       "confidence": "medium",
-      "rationale": "Page 5 exterior photo shows G+3 floors plus a headroom structure, consistent with G+3+Headroom. A 15m height is plausible for this floor count."
+      "rationale": "Building in page 5 shows approximately the right number of levels for G+3+Headroom but exact floor count and 15m height cannot be confirmed from the photo angle."
     },
     {
       "question_id": "roof_14_is_the_site_photo_matching_wit",
@@ -178,10 +133,10 @@
       "question": "Is the site photo matching with the building description?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 5 shows a multi-storey modern residential building under construction in a residential area, consistent with the project description for #94, Innovative Enclave, Nelamangala.",
+      "photo_observation": "Page 5 shows the building exterior: a modern multi-storey residential building with fresh construction. The description says G+3+Headroom, 15m height, under construction, RCC flat roof — the building in the photo is consistent with all these characteristics.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Building exterior photo (page 5) matches the described residential multi-floor building under construction."
+      "rationale": "Building exterior in page 5 visually matches a modern, multi-storey, newly constructed residential building consistent with the project description."
     },
     {
       "question_id": "roof_15_is_there_an_overhead_ht_line_p",
@@ -190,10 +145,94 @@
       "question": "Is there an overhead HT line passing within a 10-meter radius of the site?",
       "designer_answer": "No",
       "designer_notes": "-",
-      "photo_observation": "Page 5 (Building Exterior): Building surroundings visible; no high-tension overhead wires passing near the building are observable in the exterior photo.",
+      "photo_observation": "Pages 5 and 7 show the building exterior and surrounding areas. No overhead high-tension power lines are visible in any of the available exterior photos. However, coverage is limited and not all 360 degrees of the perimeter are photographed.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "low",
+      "rationale": "No HT lines visible in available photos, but perimeter coverage is incomplete. Cannot fully confirm absence from photos alone."
+    },
+    {
+      "question_id": "general_1_can_the_delivery_van_truck_rea",
+      "section": "general",
+      "q_no": 1,
+      "question": "Can the delivery van/truck reach the material unloading point?",
+      "designer_answer": "Yes",
+      "designer_notes": "-",
+      "photo_observation": "Page 5 (Material Delivery Route) shows a paved concrete road directly in front of the building with a wide sliding gate. A blue arrow overlay indicates the delivery approach route. The road and gate width appear sufficient for a delivery van.",
+      "verdict": "PASS",
+      "confidence": "high",
+      "rationale": "Page 5 clearly shows a paved road and wide gate suitable for van access, with explicit annotated delivery route."
+    },
+    {
+      "question_id": "general_2_are_there_any_obstacles_at_the",
+      "section": "general",
+      "q_no": 2,
+      "question": "Are there any obstacles at the site that could hinder material lifting?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "Pages 6 and 7 show the material access paths. Page 6 shows a clear side path and a wide internal marble staircase for small items. Page 7 shows the exterior route for large items (panels) and an external ladder for final roof access. No blocking obstacles are apparent in the photos.",
       "verdict": "PASS",
       "confidence": "medium",
-      "rationale": "No overhead HT lines visible in the building exterior photo (page 5). Residential area surroundings do not show transmission infrastructure near the site."
+      "rationale": "Access paths in pages 6-7 appear clear with no visible obstacles. Staircase and ladder routes shown are usable."
+    },
+    {
+      "question_id": "general_3_where_will_the_inverter_dcdb_a",
+      "section": "general",
+      "q_no": 3,
+      "question": "Where will the Inverter, DCDB, ACDB, Battery, etc. be located?",
+      "designer_answer": "Inverter, DCDB, ACDB, Battery is located near the ground floor",
+      "designer_notes": "-",
+      "photo_observation": "Page 13 (Equipment Location) shows the ground floor interior room with labeled overlays: 'INVERTER' (purple) and 'Battery' (green) clearly marked inside a ground-floor room.",
+      "verdict": "PASS",
+      "confidence": "high",
+      "rationale": "Page 13 explicitly labels inverter and battery placement inside a ground-floor room, confirming the answer."
+    },
+    {
+      "question_id": "general_4_is_a_canopy_required_for_prote",
+      "section": "general",
+      "q_no": 4,
+      "question": "Is a canopy required for protecting the Inverters/ACDB/DCDB?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "Page 13 shows inverter and battery placement inside an enclosed ground-floor room with walls and ceiling, providing inherent weather protection. No external or exposed installation is indicated.",
+      "verdict": "PASS",
+      "confidence": "high",
+      "rationale": "Equipment is placed indoors in an enclosed room (page 13), eliminating the need for a canopy."
+    },
+    {
+      "question_id": "general_5_did_you_discuss_the_location_o",
+      "section": "general",
+      "q_no": 5,
+      "question": "Did you discuss the location of the earth pits with the customer?",
+      "designer_answer": "Earth pits are located",
+      "designer_notes": "-",
+      "photo_observation": "Page 14 (Earth Pit Location) shows the side yard with colored marker stickers (green and orange/yellow) indicating the planned DC, AC and LA earth pit locations in the soil/garden strip alongside the building.",
+      "verdict": "PASS",
+      "confidence": "high",
+      "rationale": "Page 14 clearly shows earth pit location markers in the side yard, confirming locations have been identified and discussed."
+    },
+    {
+      "question_id": "general_6_where_is_the_internet_router_l",
+      "section": "general",
+      "q_no": 6,
+      "question": "Where is the Internet Router located?",
+      "designer_answer": "Customer scope",
+      "designer_notes": "-",
+      "photo_observation": "No photo in the TSVR specifically shows the internet router or its location. This is a customer-scope administrative item not visually verifiable from site photos.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "low",
+      "rationale": "No photo documents the router location. 'Customer scope' cannot be confirmed or contradicted from site photos."
+    },
+    {
+      "question_id": "general_8_did_you_pin_the_site_location",
+      "section": "general",
+      "q_no": 8,
+      "question": "Did you pin the site location in your WhatsApp when you were at the site?",
+      "designer_answer": "Yes",
+      "designer_notes": "-",
+      "photo_observation": "No photo in the TSVR documents a WhatsApp location pin. This is an administrative action not verifiable from site photos.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "low",
+      "rationale": "WhatsApp pin is an administrative action that cannot be verified from any site photo in the TSVR."
     },
     {
       "question_id": "electrical_1_what_type_of_energy_meter_is_c",
@@ -202,10 +241,10 @@
       "question": "What type of energy meter is currently installed?",
       "designer_answer": "Phase: Three Phase, Type: Digital, If 3-phase: LT w/o CT (5 - 34.999)",
       "designer_notes": "-",
-      "photo_observation": "Page 8 (Meter Box, top): Large outdoor metal cabinet with two compartments, typical of a 3-phase installation. Page 8 (bottom, close-up): Digital meter clearly visible inside. Three terminal/connector units visible below the meter — these could be CT clamps, casting doubt on the 'LT w/o CT' classification.",
-      "verdict": "MANUAL_CHECK",
+      "photo_observation": "Page 8 (Meter Box) shows the indoor meter cubicle interior. The meter unit appears to be a digital display type. Below the meter, three separate MCB/isolator switch units are visible, consistent with a 3-phase configuration. The overall metering setup matches a standard LT 3-phase arrangement.",
+      "verdict": "PASS",
       "confidence": "medium",
-      "rationale": "Three-phase digital meter is confirmed (page 8). However, three terminal connectors below the meter may be CT connections, contradicting 'LT w/o CT.' Manual inspection needed to verify meter category."
+      "rationale": "Page 8 shows a digital 3-phase meter with three separate isolators, consistent with the 'Three Phase, Digital, LT w/o CT' answer. CT rating cannot be confirmed visually."
     },
     {
       "question_id": "electrical_2_is_the_meter_cubicle_photo_mat",
@@ -214,10 +253,10 @@
       "question": "Is the Meter cubicle photo matching with the previous answer?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 8 (Meter Box): Large outdoor metal cubicle with a digital meter inside, consistent with a three-phase installation.",
+      "photo_observation": "Pages 8 and 14 both show the outdoor meter cubicle. Page 8 shows the interior with the 3-phase digital meter. Page 14 shows the exterior of the cubicle with two compartments labeled 'Main meter' and 'Solar meter'. The cubicle is consistent with a 3-phase LT metering installation.",
       "verdict": "PASS",
-      "confidence": "medium",
-      "rationale": "The meter cubicle photo (page 8) shows a digital meter in an outdoor cabinet broadly consistent with the three-phase digital meter description."
+      "confidence": "high",
+      "rationale": "Meter cubicle photos on pages 8 and 14 are present and consistent with the 3-phase digital meter described."
     },
     {
       "question_id": "electrical_3_has_the_termination_point_in_t",
@@ -226,10 +265,10 @@
       "question": "Has the termination point in the Main meter panel been identified?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 14 (top): Meter cabinet annotated with 'Main meter' (red box) and 'Solar meter' (cyan box) compartments, clearly identifying the termination point.",
+      "photo_observation": "Page 14 shows the outdoor meter cubicle with 'Main meter' (red label) and 'Solar meter' (blue label) sections, with a purple outline box indicating the designated area for solar meter connection/termination.",
       "verdict": "PASS",
-      "confidence": "medium",
-      "rationale": "Page 14 annotation of the main meter compartment confirms the termination point has been identified and is documented."
+      "confidence": "high",
+      "rationale": "Page 14 explicitly identifies the main meter and the termination/connection area for the solar meter within the cubicle."
     },
     {
       "question_id": "electrical_4_is_the_termination_point_easil",
@@ -238,10 +277,10 @@
       "question": "Is the Termination Point easily visible or sealed?",
       "designer_answer": "Visible",
       "designer_notes": "-",
-      "photo_observation": "Pages 8 and 14 show the meter cabinet with the main meter compartment open and clearly visible. The digital meter and connections are accessible.",
+      "photo_observation": "Page 14 shows the meter cubicle door open with the meter and connections accessible and clearly visible. Page 8 shows the interior with exposed wiring and meter connections.",
       "verdict": "PASS",
-      "confidence": "medium",
-      "rationale": "Meter cabinet photos (pages 8, 14) show the main meter is visible and accessible inside an open-fronted compartment."
+      "confidence": "high",
+      "rationale": "Open meter cubicle with visible connections in pages 8 and 14 confirms the termination point is 'Visible'."
     },
     {
       "question_id": "electrical_9_in_main_meter_panel_is_empty_s",
@@ -250,10 +289,10 @@
       "question": "In Main meter panel, is empty space available for solar meter?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 14 (top): Meter cabinet clearly shows two compartments — left occupied by the existing main meter, right designated and empty for the solar meter (highlighted with cyan/blue overlay).",
+      "photo_observation": "Page 14 shows the outdoor meter enclosure with two side-by-side compartments. The right-hand compartment is labeled 'Solar meter' and appears empty/unoccupied, indicating space is available for solar meter installation.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Page 14 unambiguously shows a separate, empty second compartment in the meter cabinet designated for the solar meter."
+      "rationale": "Dedicated empty solar meter compartment clearly visible and labeled in the cubicle on page 14."
     },
     {
       "question_id": "electrical_11_is_there_space_available_to_di",
@@ -262,10 +301,10 @@
       "question": "Is there space available to dig DC, AC and LA earth pits?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 14 (Earth Pit Location): Soil/garden strip alongside the building wall with three colored earth pit markers (DC, AC, LA). Adequate open soil area visible.",
+      "photo_observation": "Page 14 (Earth Pit Location) shows a garden/soil strip running along the building perimeter in the side yard. Colored pit markers (green, orange/yellow) are placed in open soil, showing adequate space for multiple earth pits.",
       "verdict": "PASS",
       "confidence": "high",
-      "rationale": "Page 14 shows an open garden/soil area with three distinct earth pit locations marked, confirming space is available."
+      "rationale": "Page 14 confirms available soil area in the side yard with labeled positions for DC, AC, and LA pits."
     },
     {
       "question_id": "electrical_12_in_case_of_elevated_structures",
@@ -274,22 +313,46 @@
       "question": "In case of elevated structures, is an LA extension provided at the far end?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "3D renders (pages 10-11) show the elevated structure design. No specific LA extension is visible or labeled in any photo or render. Cable routing diagram (page 12, bottom) does not explicitly annotate an LA extension at the far end of the structure.",
+      "photo_observation": "Pages 10-11 show the elevated 2m HDGI structure in 3D model form, but no specific LA rod or spike is visible at the far end of the structure in any photo. Page 13 (cable routing on building facade) shows a colored line that may correspond to LA cable, but no close-up of an installed or planned LA extension at the elevated structure far end is provided.",
       "verdict": "MANUAL_CHECK",
       "confidence": "low",
-      "rationale": "No photo or render clearly shows an LA extension at the far end of the elevated HDGI structure. Cannot confirm from available visual evidence."
+      "rationale": "No photo clearly shows an LA extension at the far end of the elevated structure. The 3D models (pages 10-11) do not depict a specific LA rod. Cannot confirm 'Yes' from available photos."
     },
     {
-      "question_id": "electrical_13_in_case_of_elevated_structures_g",
+      "question_id": "electrical_13_in_case_of_elevated_structures",
       "section": "electrical",
       "q_no": 13,
       "question": "In case of elevated structures, is it with or without grouting?",
       "designer_answer": "With Grouting",
       "designer_notes": "-",
-      "photo_observation": "Only 3D design renders of the elevated structure are available (pages 10-11). No actual site photo shows the structure footings or grouting.",
+      "photo_observation": "The 3D model on pages 10-11 shows the elevated structure design but no close-up photo of grouting, anchor bolts, or structural base fixings is included in the photo documentation.",
       "verdict": "MANUAL_CHECK",
       "confidence": "low",
-      "rationale": "No actual site photo showing structure base grouting is present. Only design renders exist; grouting cannot be confirmed visually."
+      "rationale": "No photo shows grouting or anchor detail for the elevated structure. Cannot verify 'With Grouting' from available photos."
+    },
+    {
+      "question_id": "electrical_14_are_there_any_challenges_with",
+      "section": "electrical",
+      "q_no": 14,
+      "question": "Are there any challenges with respect to Installation and Maintenance activities?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "Pages 5-14 show a newly constructed building with a wide flat rooftop, clear access paths, indoor equipment location, and accessible meter cubicle. No unusual site constraints such as extreme heights, narrow access, dense obstructions, or overhead hazards are evident from the photos.",
+      "verdict": "PASS",
+      "confidence": "medium",
+      "rationale": "Overall site photos show a straightforward installation scenario with no apparent installation or maintenance challenges, consistent with 'No'."
+    },
+    {
+      "question_id": "electrical_15_are_there_any_safety_risks_ass",
+      "section": "electrical",
+      "q_no": 15,
+      "question": "Are there any safety risks associated with accessing the roof for installation?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "Page 7 shows the external metal ladder providing roof access. The ladder is steep and tall (spanning approximately 3-4 floors), which inherently carries some risk, but this is standard for solar installations via ladder access. No parapet wall failures, unstable structure, or unusual hazard is visible in the photos.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "medium",
+      "rationale": "The external metal ladder (page 7) spanning 3-4 floors is the primary roof access, which requires standard safety precautions. The designer answered 'No' but the ladder height warrants a manual check to confirm appropriate safety measures are planned."
     },
     {
       "question_id": "electrical_16_is_space_present_in_rooftop_to",
@@ -298,34 +361,34 @@
       "question": "Is space present in rooftop to store the panels?",
       "designer_answer": "Horizontally sleeping",
       "designer_notes": "-",
-      "photo_observation": "Page 9 (Material Storage): Large open flat terrace with clear area visible. Page 12 (Proposed PV Area): Flat terrace covered by blue tarp — ample open space around the proposed installation area for horizontal panel storage.",
+      "photo_observation": "Page 9 (Material Storage) shows the RCC flat roof terrace with a wide open tiled surface. The area is flat and spacious enough to lay panels horizontally ('horizontally sleeping') prior to installation. No significant furniture or obstacles occupy the space.",
       "verdict": "PASS",
-      "confidence": "medium",
-      "rationale": "The flat RCC rooftop (pages 9, 12) provides ample space to lay panels horizontally, consistent with the designer's answer."
+      "confidence": "high",
+      "rationale": "Page 9 shows a wide open flat roof with ample floor space to lay panels flat, consistent with 'Horizontally sleeping' panel storage."
     },
     {
-      "question_id": "electrical_18_is_ventilation_available_in_t",
+      "question_id": "electrical_18_is_ventilation_available_in_th",
       "section": "electrical",
       "q_no": 18,
       "question": "Is ventilation available in the battery location?",
       "designer_answer": "Yes",
       "designer_notes": "-",
-      "photo_observation": "Page 13 (Equipment Location): The ground floor room where the battery will be located has windows visible in the background. However, dedicated ventilation openings or vents for battery use are not clearly confirmed in the photo.",
+      "photo_observation": "Page 13 (Equipment Location) shows the ground-floor interior room with visible window openings on the exterior walls. The room appears to have natural ventilation through windows. However, the adequacy of ventilation for battery operation cannot be precisely assessed from the photo.",
       "verdict": "MANUAL_CHECK",
-      "confidence": "low",
-      "rationale": "The room in page 13 has windows suggesting potential ventilation, but dedicated battery ventilation cannot be conclusively confirmed from the available photo."
+      "confidence": "medium",
+      "rationale": "Window openings visible in page 13 suggest natural ventilation, but adequacy for battery room requirements cannot be definitively confirmed from photos."
     },
     {
       "question_id": "electrical_19_should_the_inverters_acdb_dcdb",
       "section": "electrical",
       "q_no": 19,
       "question": "Should the Inverters/ACDB/DCDB be installed on a metal grill or wall mount?",
-      "designer_answer": "Inverters/ACDB/DCDB be installed on a wall mount",
+      "designer_answer": "Inverters/ACDB/D CDB be installed on a wall mount",
       "designer_notes": "-",
-      "photo_observation": "Page 13 (Equipment Location): INVERTER and BATTERY markers are positioned against the room wall. No grill structure visible in the room.",
-      "verdict": "PASS",
+      "photo_observation": "Page 13 (Equipment Location) shows the inverter label (purple overlay) positioned against the interior wall of the ground-floor room. No metal grill or rack structure is shown or planned in the equipment area.",
+      "verdict": "MANUAL_CHECK",
       "confidence": "medium",
-      "rationale": "Equipment markers in page 13 show planned wall-side placement, consistent with wall mount installation."
+      "rationale": "Inverter label on wall in page 13 is consistent with wall mount, but specific wall-mounting hardware or brackets are not visible in the photo to fully confirm."
     },
     {
       "question_id": "electrical_20_provide_the_dimensions_for_sol",
@@ -334,10 +397,10 @@
       "question": "Provide the dimensions for solar meter cubicle placement (L x W of wall).",
       "designer_answer": "width: 600, length: 800",
       "designer_notes": "-",
-      "photo_observation": "Page 14 (top): Meter cabinet with two compartments visible. The solar meter compartment is clearly identified but no scale reference is present to verify the 600x800mm dimension.",
+      "photo_observation": "Page 14 shows the solar meter cubicle section in the outdoor enclosure. The cubicle dimensions appear reasonable for a standard solar meter installation, but no measurement scale, tape measure, or ruler is visible in the photo to confirm width 600mm x length 800mm.",
       "verdict": "MANUAL_CHECK",
       "confidence": "low",
-      "rationale": "The solar meter compartment is visible in page 14 but the stated 600x800mm dimensions cannot be confirmed without a measurement scale in the photo."
+      "rationale": "Solar meter cubicle is visible in page 14 but dimensions cannot be verified from the photo without a measurement reference."
     },
     {
       "question_id": "electrical_21_provide_the_dimension_for_eart",
@@ -346,10 +409,22 @@
       "question": "Provide the dimension for earth pits location (L x W of available space).",
       "designer_answer": "length: 1000, width: 1000",
       "designer_notes": "-",
-      "photo_observation": "Page 14 (Earth Pit Location): Soil/garden strip with three pit markers visible. Actual strip dimensions cannot be verified without a measurement scale in the photo.",
+      "photo_observation": "Page 14 (Earth Pit Location) shows the side yard with earth pit markers in the garden/soil strip. The strip appears adequate in size, but no measurement reference is visible to confirm a 1000mm x 1000mm available space.",
       "verdict": "MANUAL_CHECK",
       "confidence": "low",
-      "rationale": "Earth pit area is confirmed in page 14 but the 1000x1000mm dimension cannot be independently verified from the photo."
+      "rationale": "Earth pit area visible in page 14 but 1000x1000mm dimensions cannot be confirmed from the photo."
+    },
+    {
+      "question_id": "electrical_22_is_lan_cable_under_customer_sc",
+      "section": "electrical",
+      "q_no": 22,
+      "question": "Is LAN cable under customer scope?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "No photo in the TSVR documents LAN cable routing or installation. This is an administrative/contractual item specifying EcoSoch's scope, not visually verifiable from site photos.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "low",
+      "rationale": "LAN cable scope responsibility cannot be verified from site photos. No LAN cable routing is documented in the photo pages."
     },
     {
       "question_id": "electrical_23_is_there_any_shadow_that_affec",
@@ -358,10 +433,34 @@
       "question": "Is there any shadow that affects the solar installation?",
       "designer_answer": "No",
       "designer_notes": "-",
-      "photo_observation": "Pages 11-12 (Proposed PV Area): Open flat rooftop with no visible nearby shading structures directly over the proposed elevated panel array. Surrounding buildings appear to be at equal or lower height. No shadow analysis renders are included in this PDF.",
+      "photo_observation": "Pages 9-11 show the building roof and surroundings. The elevated mounting structure (2m height) positions panels above the parapet, reducing shadow risk. Neighboring buildings are visible in the background from page 12 but do not appear to overhang the south-facing panel area. No dedicated shadow analysis chart is included in this TSVR.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "low",
+      "rationale": "No shadow analysis diagram is included in the TSVR photo documentation (pages 5-16). Surroundings in pages 9-12 don't show obvious shadowing obstructions, but absence of a shadow study means this cannot be confidently confirmed."
+    },
+    {
+      "question_id": "electrical_24_is_there_any_trench_work_to_be",
+      "section": "electrical",
+      "q_no": 24,
+      "question": "Is there any trench work to be done to carry the AC cable to the meter location?",
+      "designer_answer": "No",
+      "designer_notes": "-",
+      "photo_observation": "Page 13 (cable routing on building facade) shows cables routed along the exterior wall of the building using surface-mounted runs. Page 14 shows the outdoor meter cubicle adjacent to the building — the cable appears to run along the wall surface rather than underground. No excavated trench or underground routing is indicated in any photo.",
       "verdict": "PASS",
       "confidence": "medium",
-      "rationale": "Proposed PV area photos (pages 11-12) show an open terrace with no immediate shading obstructions. No shadow analysis renders are included, but no obvious shading sources are visible for the elevated array."
+      "rationale": "Cable routing in page 13 shows surface-wall routing from building to the outdoor meter cubicle, consistent with no trench work required."
+    },
+    {
+      "question_id": "synthetic_cable_routing_continuity",
+      "section": "synthetic",
+      "q_no": 0,
+      "question": "Is the cable routing in the site photos continuous and consistent across the documented run — from rooftop panels to DCDB to inverter to ACDB to solar meter to main panel — with no orphan ends, no unexplained mid-run size changes, and visible conduit / cable-tie / clipping where the run is exposed?",
+      "designer_answer": "(synthetic whole-document check)",
+      "designer_notes": "No designer answer for this target — the vision routine verifies it by tracing cables across photos with 'Cable Routing', 'Equipment Location', 'Meter Box' and similar captions on pages 4+.",
+      "photo_observation": "Tracing the cable run across pages: (1) Page 12 bottom (Cable Routing): DC cables shown with cyan/red overlay lines running from the corrugated sheet panel section along the roof edge toward the main structure — route initiated. (2) Page 13 top (Cable Routing on facade): Colored lines (orange, red, green) run vertically down the building exterior wall from roof to ground floor — DC, AC, and LA cables routed along wall surface. (3) Page 13 bottom (Equipment Location): INVERTER and Battery labels shown inside ground-floor room; cable entry point implied from above. (4) Page 14 top (Meter Box): Main meter and Solar meter compartments identified in outdoor cubicle adjacent to building — terminal endpoints shown. The run is: panels → roof edge → exterior wall → ground floor equipment room → outdoor meter cubicle. No orphan ends detected. Since building is under construction, cable ties/conduit are planned (not yet installed), so exposed runs are shown as design overlays only. No unexplained mid-run gauge changes are depicted.",
+      "verdict": "PASS",
+      "confidence": "medium",
+      "rationale": "Cable routing is documented continuously across pages 12-14 with annotated photos at each segment — roof, building facade, equipment room, and meter cubicle — forming a complete closed route with no orphan ends. As a pre-construction plan document, physical conduit/ties are not yet installed; the route design itself is coherent and fully traced."
     }
   ]
 }
