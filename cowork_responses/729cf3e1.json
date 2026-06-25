@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "request_id": "729CF3E1",
+  "project_folder": "KAYNES_ELECTRONICS_MANUFACTURING_PVT_LTD",
+  "sld_key": "__default__",
+  "timestamp": "2026-06-25T06:10:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1":  {"kwp": 78.5},
+      "2":  {"kwp": 78.5},
+      "3":  {"kwp": 78.5},
+      "4":  {"kwp": 78.5},
+      "5":  {"kwp": 78.5},
+      "6":  {"kwp": 78.5},
+      "7":  {"kwp": 78.5},
+      "8":  {"kwp": 78.5},
+      "9":  {"kwp": 78.5},
+      "10": {"kwp": 78.5},
+      "11": {"kwp": 78.5},
+      "12": {"kwp": 78.5},
+      "13": {"kwp": 78.4},
+      "14": {"kwp": 78.4},
+      "15": {"kwp": 78.4},
+      "16": {"kwp": 78.4},
+      "17": {"kwp": 78.4},
+      "18": {"kwp": 78.4},
+      "19": {"kwp": 78.4},
+      "20": {"kwp": 78.4},
+      "21": {"kwp": 78.4},
+      "22": {"kwp": 78.4},
+      "23": {"kwp": 78.4},
+      "24": {"kwp": 78.4},
+      "25": {"kwp": 78.4}
+    },
+    "sanctioned_load_kw": 2250
+  }
+}
