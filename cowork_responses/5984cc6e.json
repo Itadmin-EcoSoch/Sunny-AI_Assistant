@@ -3,11 +3,17 @@
   "request_id": "5984cc6e",
   "project_folder": "27B874FF Windmills Of Your Mind - Total Environment",
   "sld_key": "DWG-El-001_Single Line Diagram_Windimills_ T2 - 40.3kWp",
-  "timestamp": "2026-07-03T10:22:14Z",
+  "timestamp": "2026-07-03T10:30:00Z",
   "extracted_values": {
     "per_inverter_data": {
       "1": {
-        "ac_cable": {"sqmm": 25, "length_m": 52, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "ac_cable": {
+          "sqmm": 10,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
         "acdb_mcb_a": 63,
         "acdb_mcb_poles": 4,
         "kwp": 40.3,
@@ -15,8 +21,14 @@
         "dc_cable": {"length_m": 88}
       }
     },
-    "acdb": {"spd_vac": "415V"},
-    "solar_meter": {"mccb_a": 63, "ct_ratio": "75/5", "mcb_a": 6},
+    "acdb": {
+      "spd_vac": "280VAC"
+    },
+    "solar_meter": {
+      "mccb_a": 63,
+      "ct_ratio": "75/5",
+      "mcb_a": 6
+    },
     "sanctioned_load_kw": 50
   }
 }
