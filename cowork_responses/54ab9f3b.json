@@ -1,17 +1,18 @@
 {
   "status": "completed",
-  "request_id": "5984cc6e",
+  "request_id": "54ab9f3b",
   "project_folder": "27B874FF Windmills Of Your Mind - Total Environment",
-  "sld_key": "DWG-El-001_Single Line Diagram_Windimills_ T2 - 40.3kWp",
+  "sld_key": "DWG-El-001_Single Line Diagram_Windimills_ T5 - 33.48kWp",
   "timestamp": "2026-07-03T11:00:00Z",
   "extracted_values": {
     "per_inverter_data": {
       "1": {
         "kwp": 33.3,
         "strings": 2,
+        "modules": 27,
         "ac_cable": {
-          "sqmm": 25,
-          "length_m": 52,
+          "sqmm": 35,
+          "length_m": 110,
           "runs": 1,
           "cores": 4,
           "type": "al",

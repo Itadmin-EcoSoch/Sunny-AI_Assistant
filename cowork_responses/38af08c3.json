@@ -1,1 +1,40 @@
-ewogICJzdGF0dXMiOiAiY29tcGxldGVkIiwKICAicmVxdWVzdF9pZCI6ICIzOGFmMDhjMyIsCiAgInByb2plY3RfZm9sZGVyIjogIjI3Qjg3NEZGIFdpbmRtaWxscyBPZiBZb3VyIE1pbmQgLSBUb3RhbCBFbnZpcm9ubWVudCIsCiAgInNsZF9rZXkiOiAiRFdHLUVsLTAwMV9TaW5nbGUgTGluZSBEaWFncmFtX1dpbmRpbWlsbHNfIFQzIC0gMzMuNDhrV3AiLAogICJ0aW1lc3RhbXAiOiAiMjAyNi0wNy0wM1QxMDozMTowMFoiLAogICJleHRyYWN0ZWRfdmFsdWVzIjogewogICAgInBlcl9pbnZlcnRlcl9kYXRhIjogewogICAgICAiMSI6IHsKICAgICAgICAia3dwIjogMzMuNDgsCiAgICAgICAgInN0cmluZ3MiOiAyLAogICAgICAgICJtb2R1bGVzIjogMjcsCiAgICAgICAgImFjX2NhYmxlIjogewogICAgICAgICAgInNxbW0iOiAxMCwKICAgICAgICAgICJsZW5ndGhfbSI6IDUsCiAgICAgICAgICAicnVucyI6IDEsCiAgICAgICAgICAiY29yZXMiOiA0LAogICAgICAgICAgInR5cGUiOiAiY3UiCiAgICAgICAgfSwKICAgICAgICAiYWNkYl9tY2JfYSI6IDYzLAogICAgICAgICJhY2RiX21jYl9wb2xlcyI6IDQsCiAgICAgICAgImRjX2NhYmxlIjogewogICAgICAgICAgImxlbmd0aF9tIjogOTMKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAiYWNkYiI6IHsKICAgICAgInNwZF92YWMiOiAiMjc1ViIKICAgIH0sCiAgICAic29sYXJfbWV0ZXIiOiB7CiAgICAgICJjdF9yYXRpbyI6ICI1MC81IiwKICAgICAgIm1jYl9hIjogNgogICAgfSwKICAgICJzYW5jdGlvbmVkX2xvYWRfa3ciOiA1MAogIH0KfQ==
+{
+  "status": "completed",
+  "request_id": "38af08c3",
+  "project_folder": "27B874FF Windmills Of Your Mind - Total Environment",
+  "sld_key": "DWG-El-001_Single Line Diagram_Windimills_ T3 - 33.48kWp",
+  "timestamp": "2026-07-03T11:00:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 27.6,
+        "strings": 2,
+        "modules": 27,
+        "ac_cable": {
+          "sqmm": 25,
+          "length_m": 110,
+          "runs": 1,
+          "cores": 4,
+          "type": "al",
+          "xlpe": true,
+          "armoured": true
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "MCB",
+        "dc_cable": {
+          "length_m": 88
+        }
+      }
+    },
+    "acdb": {
+      "spd_vac": "275V"
+    },
+    "solar_meter": {
+      "mccb_a": 63,
+      "ct_ratio": "50/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 50
+  }
+}
