@@ -1,0 +1,47 @@
+{
+  "status": "completed",
+  "request_id": "afbff003",
+  "project_folder": "28F4F7BB Savithri Serenity",
+  "sld_key": "__default__",
+  "timestamp": "2026-07-06T00:00:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 5.58,
+        "strings": 1,
+        "modules": 9,
+        "ac_cable": {
+          "sqmm": 2.5,
+          "length_m": 2,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 16,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "C-curve",
+        "dc_cable": {
+          "length_m": 28
+        }
+      }
+    },
+    "dc_system": {
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "earthing": {
+      "la_sqmm": 16,
+      "la_length_m": 100,
+      "dc_sqmm": 16,
+      "dc_length_m": 100,
+      "ac_sqmm": 16,
+      "ac_length_m": 80
+    },
+    "solar_meter": {
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 10
+  }
+}

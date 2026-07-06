@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "request_id": "1ac588c7",
+  "project_folder": "1F26D7FC Sumadhura Sawan",
+  "sld_key": "MS4EEH84877",
+  "timestamp": "2026-07-06T00:00:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 10.95,
+        "strings": 1,
+        "modules": 18,
+        "ac_cable": {
+          "sqmm": 16,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "al"
+        },
+        "dc_cable": {
+          "length_m": 66
+        }
+      }
+    },
+    "dc_system": {
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "sanctioned_load_kw": 10
+  }
+}

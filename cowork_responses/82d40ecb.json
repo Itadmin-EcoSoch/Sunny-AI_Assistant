@@ -1,0 +1,43 @@
+{
+  "status": "completed",
+  "request_id": "82d40ecb",
+  "project_folder": "C7319971 Vijay Babu T S",
+  "sld_key": "__default__",
+  "timestamp": "2026-07-06T00:00:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 8.4,
+        "strings": 1,
+        "modules": 12,
+        "ac_cable": {
+          "sqmm": 2.5,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 32,
+        "acdb_mcb_poles": 3,
+        "acdb_mcb_type": "C-curve",
+        "dc_cable": {
+          "length_m": 28
+        }
+      }
+    },
+    "dc_system": {
+      "dc_isolator_a": 40,
+      "dc_isolator_poles": 2,
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "earthing": {
+      "la_sqmm": 16,
+      "la_length_m": 20,
+      "dc_sqmm": 16,
+      "dc_length_m": 20,
+      "ac_sqmm": 16,
+      "ac_length_m": 18
+    },
+    "sanctioned_load_kw": 10
+  }
+}
