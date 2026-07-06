@@ -1,13 +1,13 @@
 {
   "status": "completed",
   "request_id": "MSG_19f371dadbcf6be0",
-  "project_folder": "Windmills_Of_Your_Mind",
+  "project_folder": "Windmills_Of_Your_Mind_Owners_Association",
   "sld_key": "T2",
-  "timestamp": "2026-07-06T12:10:00Z",
+  "timestamp": "2026-07-06T11:35:00Z",
   "extracted_values": {
     "per_inverter_data": {
       "1": {
-        "ac_cable": {"sqmm": 50, "length_m": 50, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "ac_cable": {"sqmm": 50, "length_m": 92, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
         "acdb_mcb_a": 63,
         "acdb_mcb_poles": 4,
         "kwp": 40.3,
@@ -16,7 +16,7 @@
       }
     },
     "acdb": {"spd_vac": "280V"},
-    "solar_meter": {"mccb_a": 80, "ct_ratio": "50/5", "mcb_a": 6},
+    "solar_meter": {"mccb_a": 63, "ct_ratio": "50/5", "mcb_a": 6},
     "sanctioned_load_kw": 50
   }
 }
