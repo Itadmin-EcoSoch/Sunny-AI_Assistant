@@ -1,0 +1,23 @@
+{
+  "status": "completed",
+  "request_id": "9a641876",
+  "project_folder": "MSG_19f371dadbcf6be0",
+  "sld_key": "DWG-El-001_Single Line Diagram_Windimills_ T5 - 33.48kWp",
+  "timestamp": "2026-07-06T12:15:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 50, "length_m": 110, "runs": 1, "cores": 4, "type": "al", "xlpe": true, "armoured": true},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.48,
+        "strings": 2,
+        "modules": 27,
+        "dc_cable": {"length_m": 88}
+      }
+    },
+    "acdb": {"spd_vac": "280V"},
+    "solar_meter": {"mccb_a": 80, "ct_ratio": "50/5", "mcb_a": 6},
+    "sanctioned_load_kw": 50
+  }
+}
