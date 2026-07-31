@@ -1,0 +1,16 @@
+{
+  "status": "completed",
+  "request_id": "9eab9f41",
+  "project_folder": "AC698FD4 Prestige Kensington Gardens",
+  "sld_key": "__default__",
+  "timestamp": "2026-07-31T10:50:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "kwp": 33.3,
+        "strings": 2
+      }
+    },
+    "sanctioned_load_kw": 45
+  }
+}
