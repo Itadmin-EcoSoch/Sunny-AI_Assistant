@@ -1,0 +1,19 @@
+{
+  "request_id": "noproj_1786962007_c0c8d3",
+  "project_folder": "89BBA116 Bala Mukund",
+  "timestamp": "2026-08-17T10:22:56Z",
+  "verdicts": [
+    {
+      "question_id": "synthetic_cable_routing_continuity",
+      "section": "synthetic",
+      "q_no": 0,
+      "question": "Is the cable routing in the site photos continuous and consistent across the documented run — from rooftop panels to DCDB to inverter to ACDB to solar meter to main panel — with no orphan ends, no unexplained mid-run size changes, and visible conduit / cable-tie / clipping where the run is exposed?",
+      "designer_answer": "(synthetic whole-document check)",
+      "designer_notes": "No designer answer for this target — the vision routine verifies it by tracing cables across photos with 'Cable Routing', 'Equipment Location', 'Meter Box' and similar captions on pages 4+.",
+      "photo_observation": "This is an Enphase micro-inverter + IQ 5P LFP battery system (p.1-2), so there is no traditional DCDB/central inverter/ACDB stage — the applicable chain is rooftop micro-inverter AC output -> AC cable/LA/DC-earthing down the terrace -> battery/charge-controller wall -> main+solar meter panel. Pages 20-21 show a color-coded, annotated rooftop-to-ground trace that IS internally consistent with the page-11 legend: an orange-outlined LA point and pink AC-cable line on the terrace (p.20) continue as green (DC earthing) and yellow/orange (LA earthing) lines down the exterior wall to labeled DC and LA earth pits at ground level (p.21) — this segment has no orphan ends and colors match throughout. However, the pink AC cable line on p.20 terminates at a hole in the terrace parapet and is not picked up again in any later photo — there is no photographed run showing it entering the building, passing through the (currently roofless/under-construction) floors, or reaching the equipment room. Page 22 (Battery/Charge controller) and page 23 (Main/Solar meter panel) are static labeled-box photos of a plastered, fully finished-looking interior with no cable, conduit, or clip visible connecting them to each other or to the rooftop route — they read as location-marker photos, not a routing trace. Notably, page 23's panel shows lit indicator LEDs and installed breakers, which is inconsistent with the designer's own text answers on p.6 ('energy meter... Not yet installed because it is under construction' and 'Is the Meter cubicle photo matching with the previous answer? Ans: No') — the designer has already flagged that this particular photo does not match site reality, suggesting it is a generic/reference image rather than an as-built shot of this site.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "medium",
+      "rationale": "The earthing/LA portion of the run (rooftop -> exterior wall -> ground earth pits, pages 20-21) is genuinely continuous and color-consistent with the p.11 legend, with no contradiction found. But the full requested chain cannot be verified end-to-end: the AC cable is only shown up to a terrace penetration point (p.20) and never reappears reaching the battery/charge-controller (p.22) or main/solar meter (p.23) photos, and the meter-panel photo is explicitly flagged by the designer as not matching the site (p.6). This is a documentation gap and a known photo/text mismatch, not a clear rooftop-vs-meter routing contradiction, so MANUAL_CHECK is the appropriate call rather than PASS or FAIL."
+    }
+  ]
+}
