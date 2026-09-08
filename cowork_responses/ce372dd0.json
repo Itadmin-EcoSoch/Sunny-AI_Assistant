@@ -1,0 +1,48 @@
+{
+  "status": "completed",
+  "request_id": "ce372dd0",
+  "project_folder": "83D63664 Adhesive specialities_Jigini, Chandapura_149.45kWp_Optimizer",
+  "sld_key": "__default__",
+  "timestamp": "2026-09-08T12:45:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 16, "runs": 1, "cores": 4, "type": "al", "xlpe": true},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "C-curve",
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 30
+      },
+      "2": {
+        "ac_cable": {"sqmm": 16, "runs": 1, "cores": 4, "type": "al", "xlpe": true},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "C-curve",
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 30
+      },
+      "3": {
+        "ac_cable": {"sqmm": 16, "runs": 1, "cores": 4, "type": "al", "xlpe": true},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "C-curve",
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 30
+      },
+      "4": {
+        "ac_cable": {"sqmm": 16, "runs": 1, "cores": 4, "type": "al", "xlpe": true},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "C-curve",
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 32
+      }
+    },
+    "sanctioned_load_kw": 320
+  }
+}
