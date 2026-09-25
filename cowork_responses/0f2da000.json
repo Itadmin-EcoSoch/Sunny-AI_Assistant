@@ -1,0 +1,48 @@
+{
+  "status": "completed",
+  "request_id": "0f2da000",
+  "project_folder": "1GI6ZVLC 1GI6ZVLC Gopikrishna M N",
+  "sld_key": "__default__",
+  "timestamp": "2026-09-25T12:18:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 4,
+          "length_m": 3,
+          "runs": 4,
+          "cores": 1,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 32,
+        "acdb_mcb_poles": 4,
+        "kwp": 8.61,
+        "strings": 1,
+        "modules": 14,
+        "dc_cable": {
+          "length_m": 2
+        }
+      }
+    },
+    "dc_system": {
+      "dc_isolator_a": 40,
+      "dc_isolator_poles": 2,
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "280V"
+    },
+    "earthing": {
+      "la_sqmm": 16,
+      "la_length_m": 40,
+      "dc_sqmm": 16,
+      "dc_length_m": 60,
+      "ac_sqmm": 16,
+      "ac_length_m": 35
+    },
+    "solar_meter": {
+      "mcb_a": 32
+    },
+    "sanctioned_load_kw": 8
+  }
+}
