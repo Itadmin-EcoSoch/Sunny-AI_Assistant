@@ -1,0 +1,19 @@
+{
+  "request_id": "noproj_1791534707_887f23",
+  "project_folder": "Sandeep Mitra Project Id M8RSLFC1",
+  "timestamp": "2026-10-09T08:40:00Z",
+  "verdicts": [
+    {
+      "question_id": "synthetic_cable_routing_continuity",
+      "section": "synthetic",
+      "q_no": 0,
+      "question": "Is the cable routing in the site photos continuous and consistent across the documented run from rooftop panels to DCDB to inverter to ACDB to solar meter to main panel, with no orphan ends, no unexplained mid-run size changes, and visible conduit / cable-tie / clipping where the run is exposed?",
+      "designer_answer": "(synthetic whole-document check)",
+      "designer_notes": "No designer answer for this target",
+      "photo_observation": "Pre-installation survey; no solar cabling is installed. Page 8: coloured proposed-route lines (AC, DC earth, LA earth) drawn on a rooftop photo from the array area to a parapet, with a close-up of ~4-5 black conduit pipes bundled and bending into the terrace slab (stated as 1-inch conduit per run on p14). Page 10: arrows trace from the terrace conduit entry onto a perforated basement cable tray running along the ceiling to the meter room. Page 11: tray enters the meter room above a wall-mounted meter box and a floor cabinet (main meter / solar meter), many existing unrelated cables dangling off the tray. Page 12: proposed Inverter and Batteries area and UPS point marked on a bare wall, route arrow from tray to that wall. Page 13: Main Meter and Solar Meter photos. System is Enphase IQ8P microinverters (17 units), so there is no DCDB or central inverter stage in the run; the checklist chain does not map 1:1.",
+      "verdict": "MANUAL_CHECK",
+      "confidence": "low",
+      "rationale": "Routing is conceptual (overlay arrows on existing conduit and tray), not an as-installed cable run, so continuity, mid-run size changes and clipping cannot be verified from photos. Visible parts are plausible and consistent: terrace conduit to basement tray to meter room to inverter/battery wall. Gaps: no photo or arrow of the panel array to the conduit entry (array to parapet segment is only a sketch on p8), no ACDB location shown, and the route from tray to the solar meter is not explicitly traced. Nothing clearly contradicts, so not FAIL; reviewer should confirm the array-to-conduit leg and ACDB placement."
+    }
+  ]
+}
