@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "request_id": "c9c8d154",
+  "project_folder": "3461B06C Client_Name",
+  "sld_key": "__default__",
+  "timestamp": "2026-10-16T11:55:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 70,
+          "length_m": 5,
+          "cores": 4,
+          "type": "cu",
+          "xlpe": false,
+          "armoured": false
+        },
+        "acdb_mcb_poles": 4,
+        "kwp": 100,
+        "strings": 7,
+        "dc_cable": {
+          "length_m": 80
+        }
+      }
+    },
+    "sanctioned_load_kw": 300
+  }
+}
