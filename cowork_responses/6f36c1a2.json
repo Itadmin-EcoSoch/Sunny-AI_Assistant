@@ -1,0 +1,80 @@
+{
+  "status": "completed",
+  "request_id": "6f36c1a2",
+  "project_folder": "DPR - Bhakatha Nivasa Lodge - 134.54kW",
+  "sld_key": "__default__",
+  "timestamp": "2026-10-21T10:55:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 16,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu",
+          "xlpe": false,
+          "armoured": false
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "dc_cable": {"length_m": 33}
+      },
+      "2": {
+        "ac_cable": {
+          "sqmm": 16,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu",
+          "xlpe": false,
+          "armoured": false
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "dc_cable": {"length_m": 63}
+      },
+      "3": {
+        "ac_cable": {
+          "sqmm": 16,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu",
+          "xlpe": false,
+          "armoured": false
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "dc_cable": {"length_m": 63}
+      },
+      "4": {
+        "ac_cable": {
+          "sqmm": 16,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu",
+          "xlpe": false,
+          "armoured": false
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "dc_cable": {"length_m": 63}
+      }
+    },
+    "dc_system": {},
+    "acdb": {},
+    "earthing": {},
+    "solar_meter": {},
+    "sanctioned_load_kw": 150
+  }
+}
