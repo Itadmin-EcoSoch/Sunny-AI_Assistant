@@ -1,0 +1,46 @@
+{
+  "status": "completed",
+  "request_id": "ff6036ff",
+  "project_folder": "08F1BQSI 08F1BQSI Karthik Dattaraj Meda",
+  "sld_key": "__default__",
+  "timestamp": "2026-10-22T07:20:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 4,
+          "length_m": 5,
+          "runs": 4,
+          "cores": 1,
+          "type": "cu",
+          "xlpe": false,
+          "armoured": false
+        },
+        "acdb_mcb_a": 32,
+        "acdb_mcb_poles": 4,
+        "acdb_mcb_type": "C-curve",
+        "kwp": 17,
+        "strings": 2,
+        "modules": 14,
+        "dc_cable": {
+          "length_m": 50
+        }
+      }
+    },
+    "dc_system": {
+      "dcdb_spd_voltage": "1000V DC"
+    },
+    "acdb": {
+      "spd_vac": "285V"
+    },
+    "earthing": {
+      "la_sqmm": 16,
+      "la_length_m": 40,
+      "dc_sqmm": 16,
+      "dc_length_m": 45,
+      "ac_sqmm": 16,
+      "ac_length_m": 80
+    },
+    "sanctioned_load_kw": 30
+  }
+}
