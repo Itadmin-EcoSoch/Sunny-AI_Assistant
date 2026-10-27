@@ -1,0 +1,385 @@
+{
+ "request_id": "C5VNRO3O_1793102243_4d0bfc",
+ "project_folder": "Arulanandan Ponnivalavan Project Id C5VNRO3O",
+ "timestamp": "2026-10-27T11:58:57.891543Z",
+ "verdicts": [
+  {
+   "question_id": "roof_1_what_type_of_roof_is_present_a",
+   "section": "roof",
+   "q_no": 1,
+   "photo_observation": "Pages 5-6, 11: flat terrace with terracotta tile finish and parapet walls",
+   "verdict": "PASS",
+   "confidence": "high",
+   "rationale": "Flat RCC terrace with tiles laid on top; matches answer (p5-6, p11)."
+  },
+  {
+   "question_id": "roof_2_are_there_any_obstructions_on",
+   "section": "roof",
+   "q_no": 2,
+   "photo_observation": "Page 6/18: solar water heater and raised headroom/staircase block on the terrace; no trees/AC seen",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "medium",
+   "rationale": "Solar water heater and headroom block sit near the array (designer itself notes shadow on heater in Q25), so \"No obstructions\" is questionable; needs human check."
+  },
+  {
+   "question_id": "roof_3_what_is_the_angle_of_the_panel",
+   "section": "roof",
+   "q_no": 3,
+   "photo_observation": "Pages 18-19 3D renders show a low-tilt elevated structure; tilt cannot be measured from photos",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Tilt not verifiable from photos."
+  },
+  {
+   "question_id": "roof_5_on_how_many_roofs_at_the_site",
+   "section": "roof",
+   "q_no": 5,
+   "photo_observation": "Pages 5-11: single terrace with parapet; layout p18 shows one array area",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Only one roof area shown."
+  },
+  {
+   "question_id": "roof_8_what_type_of_mounting_structur",
+   "section": "roof",
+   "q_no": 8,
+   "photo_observation": "Pages 18-19 renders show elevated legs/frame over the terrace",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Elevated structure is consistent."
+  },
+  {
+   "question_id": "roof_9_what_is_the_orientation_of_the",
+   "section": "roof",
+   "q_no": 9,
+   "photo_observation": "Layout p18 has compass (N up) but panel facing direction is not clear",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Orientation not reliably determinable."
+  },
+  {
+   "question_id": "roof_10_how_can_the_roof_be_accessed",
+   "section": "roof",
+   "q_no": 10,
+   "photo_observation": "Page 7-9: internal staircase to terrace door; page 8: fixed ladder to upper headroom roof",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "medium",
+   "rationale": "Both staircase and ladder visible; answer lists only Ladder."
+  },
+  {
+   "question_id": "roof_11_is_the_building_currently_unde",
+   "section": "roof",
+   "q_no": 11,
+   "photo_observation": "Finished plaster, paint, tiled terrace, polished stair and finished facade; no scaffolding",
+   "verdict": "PASS",
+   "confidence": "high",
+   "rationale": "Building appears complete."
+  },
+  {
+   "question_id": "roof_12_in_an_under_construction_build",
+   "section": "roof",
+   "q_no": 12,
+   "photo_observation": "Pages 15: vertical conduit/pipes on exterior wall; p12 DC cable provision",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Existing conduits visible on the wall."
+  },
+  {
+   "question_id": "roof_13_what_is_the_height_of_the_buil",
+   "section": "roof",
+   "q_no": 13,
+   "photo_observation": "Pages 5, 20: two floors above ground plus rooftop headroom/terrace",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "G+1+headroom consistent; ~12 m plausible."
+  },
+  {
+   "question_id": "roof_14_is_the_site_photo_matching_wit",
+   "section": "roof",
+   "q_no": 14,
+   "photo_observation": "Page 5 and 20 exterior brick/grey two-storey house with rooftop terrace",
+   "verdict": "PASS",
+   "confidence": "high",
+   "rationale": "Exterior matches description."
+  },
+  {
+   "question_id": "roof_15_is_there_an_overhead_ht_line_p",
+   "section": "roof",
+   "q_no": 15,
+   "photo_observation": "No overhead HT line visible in exterior/terrace photos",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Absence of feature is not conclusive."
+  },
+  {
+   "question_id": "general_1_can_the_delivery_van_truck_rea",
+   "section": "general",
+   "q_no": 1,
+   "photo_observation": "Page 5/20: paved internal road frontage up to the house entrance",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Vehicle approach visible."
+  },
+  {
+   "question_id": "general_2_are_there_any_obstacles_at_the",
+   "section": "general",
+   "q_no": 2,
+   "photo_observation": "Pages 5, 15: projecting balconies/chajja on the facade",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Chajja projections visible."
+  },
+  {
+   "question_id": "general_3_where_will_the_inverter_dcdb_a",
+   "section": "general",
+   "q_no": 3,
+   "photo_observation": "Pages 13, 16: wall below overhang on ground floor with inverter and battery overlay beside meter box",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Consistent with ground-floor location near meter."
+  },
+  {
+   "question_id": "general_4_is_a_canopy_required_for_prote",
+   "section": "general",
+   "q_no": 4,
+   "photo_observation": "Page 16: equipment wall is under upper-floor overhang; client to provide protection box",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Sheltered location."
+  },
+  {
+   "question_id": "general_5_did_you_discuss_the_location_o",
+   "section": "general",
+   "q_no": 5,
+   "photo_observation": "Pages 14, 17: side-yard soil strip beside the building with garden/paver",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Earth pit area marked in garden strip."
+  },
+  {
+   "question_id": "general_6_where_is_the_internet_router_l",
+   "section": "general",
+   "q_no": 6,
+   "photo_observation": "No router photo",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not shown in photos."
+  },
+  {
+   "question_id": "general_7_what_s_the_wi_fi_strength_of_t",
+   "section": "general",
+   "q_no": 7,
+   "photo_observation": "No Wi-Fi evidence in photos",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not verifiable."
+  },
+  {
+   "question_id": "general_8_did_you_pin_the_site_location",
+   "section": "general",
+   "q_no": 8,
+   "photo_observation": "Not a photo-verifiable item",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Cannot verify."
+  },
+  {
+   "question_id": "electrical_1_what_type_of_energy_meter_is_c",
+   "section": "electrical",
+   "q_no": 1,
+   "photo_observation": "Page 10: digital meter inside box with cutouts; phase not clearly readable",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Digital looks plausible but three-phase unclear."
+  },
+  {
+   "question_id": "electrical_2_is_the_meter_cubicle_photo_mat",
+   "section": "electrical",
+   "q_no": 2,
+   "photo_observation": "Page 10 meter box photo is low resolution",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Cannot confirm match."
+  },
+  {
+   "question_id": "electrical_3_has_the_termination_point_in_t",
+   "section": "electrical",
+   "q_no": 3,
+   "photo_observation": "Page 10 meter box; termination point not marked",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not clearly identifiable."
+  },
+  {
+   "question_id": "electrical_4_is_the_termination_point_easil",
+   "section": "electrical",
+   "q_no": 4,
+   "photo_observation": "Page 10 shows open cover with visible cutouts but unclear",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Cannot confirm."
+  },
+  {
+   "question_id": "electrical_5_is_a_lightning_arrestor_la_alr",
+   "section": "electrical",
+   "q_no": 5,
+   "photo_observation": "No LA seen in terrace photos",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Absence only."
+  },
+  {
+   "question_id": "electrical_9_in_main_meter_panel_is_empty_s",
+   "section": "electrical",
+   "q_no": 9,
+   "photo_observation": "Pages 13, 17: wall panel space above/beside main meter with solar meter overlay",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Space appears available."
+  },
+  {
+   "question_id": "electrical_11_is_there_space_available_to_di",
+   "section": "electrical",
+   "q_no": 11,
+   "photo_observation": "Page 17: open soil strip with LA/DC/AC earth pit markers",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Space visible."
+  },
+  {
+   "question_id": "electrical_12_what_type_of_earthing_chamber",
+   "section": "electrical",
+   "q_no": 12,
+   "photo_observation": "Chamber type not visible",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not verifiable."
+  },
+  {
+   "question_id": "electrical_13_in_case_of_elevated_structures",
+   "section": "electrical",
+   "q_no": 13,
+   "photo_observation": "Pages 18-19: LA marker at far end of array in layout",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "LA extension shown."
+  },
+  {
+   "question_id": "electrical_14_in_case_of_elevated_structures",
+   "section": "electrical",
+   "q_no": 14,
+   "photo_observation": "Grouting not discernible in renders",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not verifiable."
+  },
+  {
+   "question_id": "electrical_15_are_there_any_challenges_with",
+   "section": "electrical",
+   "q_no": 15,
+   "photo_observation": "Pages 5, 20: glass balcony railings on facade",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Glass present as noted."
+  },
+  {
+   "question_id": "electrical_16_are_there_any_safety_risks_ass",
+   "section": "electrical",
+   "q_no": 16,
+   "photo_observation": "Pages 7-8: stairs and fixed ladder, parapet around terrace",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Risk judgement subjective."
+  },
+  {
+   "question_id": "electrical_17_is_space_present_in_rooftop_to",
+   "section": "electrical",
+   "q_no": 17,
+   "photo_observation": "Pages 10-11: large clear flat terrace area marked material storage",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Space available."
+  },
+  {
+   "question_id": "electrical_19_is_ventilation_available_in_th",
+   "section": "electrical",
+   "q_no": 19,
+   "photo_observation": "Page 16: outdoor open wall location with air circulation",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Ventilated."
+  },
+  {
+   "question_id": "electrical_20_is_battery_wall_mounted_or_sta",
+   "section": "electrical",
+   "q_no": 20,
+   "photo_observation": "Page 16: battery overlay mounted on wall",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Wall mount indicated."
+  },
+  {
+   "question_id": "electrical_21_should_the_inverters_acdb_dcdb",
+   "section": "electrical",
+   "q_no": 21,
+   "photo_observation": "Page 16: inverter overlay on plain wall surface",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Wall mount indicated."
+  },
+  {
+   "question_id": "electrical_22_provide_the_dimensions_for_sol",
+   "section": "electrical",
+   "q_no": 22,
+   "photo_observation": "No dimensions visible in photos",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not verifiable."
+  },
+  {
+   "question_id": "electrical_23_provide_the_dimension_for_eart",
+   "section": "electrical",
+   "q_no": 23,
+   "photo_observation": "Page 17 strip is roughly narrow; dimensions not shown",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Not verifiable."
+  },
+  {
+   "question_id": "electrical_24_is_lan_cable_under_customer_sc",
+   "section": "electrical",
+   "q_no": 24,
+   "photo_observation": "Not photo-verifiable",
+   "verdict": "MANUAL_CHECK",
+   "confidence": "low",
+   "rationale": "Cannot verify."
+  },
+  {
+   "question_id": "electrical_25_is_there_any_shadow_that_affec",
+   "section": "electrical",
+   "q_no": 25,
+   "photo_observation": "Pages 19-20: shadow analysis shows structure shadow on solar water heater; caption 3-4 PM",
+   "verdict": "PASS",
+   "confidence": "high",
+   "rationale": "Matches."
+  },
+  {
+   "question_id": "electrical_26_is_there_any_trench_work_to_be",
+   "section": "electrical",
+   "q_no": 26,
+   "photo_observation": "Pages 14-15: AC route via wall pipes/internal wall, no ground trench shown",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "No trenching on AC route."
+  },
+  {
+   "question_id": "synthetic_cable_routing_continuity",
+   "section": "synthetic",
+   "q_no": 0,
+   "photo_observation": "Pages 11-17: DC cable marked on terrace, through wall provision, down conduits to inverter/battery, meter box, earthing to pits",
+   "verdict": "PASS",
+   "confidence": "medium",
+   "rationale": "Route is continuous with no orphan ends."
+  }
+ ]
+}
