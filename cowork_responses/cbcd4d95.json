@@ -1,0 +1,42 @@
+{
+  "status": "completed",
+  "request_id": "cbcd4d95",
+  "project_folder": "Report - Sonarome Pvt Ltd - - 59",
+  "sld_key": "__default__",
+  "timestamp": "2026-11-02T12:45:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 16, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 1,
+        "modules": 30,
+        "dc_cable": {"length_m": 65}
+      },
+      "2": {
+        "ac_cable": {"sqmm": 16, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "dc_cable": {"length_m": 65}
+      }
+    },
+    "earthing": {
+      "la_sqmm": 75,
+      "la_length_m": 40,
+      "dc_sqmm": 75,
+      "dc_length_m": 60,
+      "ac_sqmm": 75,
+      "ac_length_m": 15
+    },
+    "solar_meter": {
+      "mccb_a": 100,
+      "ct_ratio": "100/5",
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 400
+  }
+}
