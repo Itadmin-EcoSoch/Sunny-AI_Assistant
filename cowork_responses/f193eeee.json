@@ -1,0 +1,64 @@
+{
+  "status": "completed",
+  "request_id": "f193eeee",
+  "project_folder": "docs - TSVR",
+  "sld_key": "__default__",
+  "timestamp": "2026-11-11T11:07:00Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {"sqmm": 16, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 30,
+        "dc_cable": {"length_m": 65}
+      },
+      "2": {
+        "ac_cable": {"sqmm": 16, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 30,
+        "dc_cable": {"length_m": 65}
+      },
+      "3": {
+        "ac_cable": {"sqmm": 16, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 30,
+        "dc_cable": {"length_m": 65}
+      },
+      "4": {
+        "ac_cable": {"sqmm": 16, "length_m": 5, "runs": 1, "cores": 4, "type": "cu"},
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 31,
+        "dc_cable": {"length_m": 65}
+      }
+    },
+    "dc_system": {
+      "dc_cable_sqmm": 4,
+      "dc_cable_runs": 4,
+      "dc_cable_to_dcdb_length_m": 60,
+      "dc_cable_dcdb_to_inv_length_m": 5
+    },
+    "acdb": {
+      "spd_vac": "415V",
+      "main_feeder_sqmm": 120,
+      "main_feeder_length_m": 48,
+      "main_feeder_cores": 3.5,
+      "main_feeder_type": "al",
+      "main_feeder_xlpe": true,
+      "main_feeder_armoured": true
+    },
+    "earthing": {
+      "la_sqmm": 16,
+      "dc_sqmm": 10,
+      "ac_sqmm": 16
+    },
+    "sanctioned_load_kw": 200
+  }
+}
