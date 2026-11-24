@@ -1,0 +1,35 @@
+{
+  "status": "completed",
+  "request_id": "17883592",
+  "project_folder": "WIVDYB8H",
+  "sld_key": "DWG-EL-001_SLD_Prestige West Woods Tower 01_34.1kW",
+  "timestamp": "2026-11-24T06:37:02Z",
+  "extracted_values": {
+    "per_inverter_data": {
+      "1": {
+        "ac_cable": {
+          "sqmm": 16,
+          "length_m": 5,
+          "runs": 1,
+          "cores": 4,
+          "type": "cu"
+        },
+        "acdb_mcb_a": 63,
+        "acdb_mcb_poles": 4,
+        "kwp": 33.3,
+        "strings": 2,
+        "modules": 55,
+        "dc_cable": {
+          "length_m": 75
+        }
+      }
+    },
+    "acdb": {
+      "spd_vac": "275V"
+    },
+    "solar_meter": {
+      "mcb_a": 6
+    },
+    "sanctioned_load_kw": 40
+  }
+}
